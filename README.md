@@ -2,19 +2,19 @@ EASY links:
 
 [CodePen](https://codepen.io/vladiscool2212/pen/poBKwpz)
 
-[GitHub](https://cra-z-gaming.github.io/VUS)
+[GitHub](https://cra-z-gaming.github.io/TheDaBrain)
 
-[Vercel](https://vus-orcin.vercel.app)
+[Vercel](https://thedabrain-orcin.vercel.app)
 
-[Canva](https://vush.my.canva.site)
+[Canva](https://thedabrain.my.canva.site)
 
-[Base44](https://vus.base44.app)
+[Base44](https://thedabrain.base44.app)
 
-[Google Sites](https://sites.google.com/view/vusontop/home)
+[Google Sites](https://sites.google.com/view/thedabrainontop/home)
 
 ---
 
-[More Info / How To](https://sites.google.com/view/vusag)
+[More Info / How To](https://sites.google.com/view/thedabrainag)
 
 -------------------------------------------------
 
@@ -27,7 +27,7 @@ I don't mainly make these sites for myself, I make them for the little jits at s
 
 anyways, here is how to actually use this correctly/how to build it
 
-first go to [STARTER BUTTON](https://raw.githubusercontent.com/Cra-Z-Gaming/VUS/refs/heads/main/STARTER%20BUTTON), copy code, go to any html viewer and paste the code.
+first go to [STARTER BUTTON](https://raw.githubusercontent.com/TheDaBrain/Nickel/refs/heads/main/STARTER%20BUTTON), copy code, go to any html viewer and paste the code.
 then just click the button and it should show my Hub and YT. theres also other tabs for tools and links.
 
 
@@ -35,7 +35,7 @@ then just click the button and it should show my Hub and YT. theres also other t
 
 SUPER SIMPLE "HOW TO BUILD"
 
-copy code from [STARTER BUTTON](https://raw.githubusercontent.com/Cra-Z-Gaming/VUS/refs/heads/main/STARTER%20BUTTON) then paste into a code viewer.
+copy code from [STARTER BUTTON](https://raw.githubusercontent.com/TheDaBrain/Nickel/refs/heads/main/STARTER%20BUTTON) then paste into a code viewer.
 
 
 CODE VIEWER LINKS
@@ -56,7 +56,7 @@ Starter Button code:
 <script>
 document.getElementById("hub").onclick = async () => {
     const hubCode = await fetch(
-        "https://raw.githubusercontent.com/Cra-Z-Gaming/VUS/main/index.html?v=" + Date.now(),
+        "https://raw.githubusercontent.com/TheDaBrain/Nickel/main/index.html?v=" + Date.now(),
     ).then(r => r.text());
 
     const win = window.open("about:blank", "_blank");
@@ -71,10 +71,10 @@ document.getElementById("hub").onclick = async () => {
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-this project is free to make and is fully open source. i do not mind you using any code from VUS, but i do ask 2 things: 
+this project is free to make and is fully open source. i do not mind you using any code from TheDaBrain, but i do ask 2 things: 
 
-1 - Credits: this can be my youtube @NotVladYT or my github profile github.com/Cra-Z-Gaming
+1 - Credits: this can be my youtube @NotVladYT or my github profile github.com/TheDaBrain
 
 2 - Donations: this is 100% optional but GREATLY appreciated: Cashapp $vlad118
 
-Donations would definitely make me happy and motivated to make more projects that live in VUS Hub
+Donations would definitely make me happy and motivated to make more projects that live in TheDaBrain Hub
